@@ -48,3 +48,5 @@ This requirements should be ploaded in Heroku environments.
 Then upload the complete codes into github. commit the changes there.
 
 Go to your Heroku profile. click new and create new app and give it a name. then click create app. then you should connect the github repository to this. search for your repository there. click connect. Then you should do automatic or manual deploy. Then click deploy branch. COngrats. the URL is ceated which can be used globally. click on view. and its there.
+
+Now we deploy a spam ham classification model as an NLP task.
